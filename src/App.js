@@ -1,4 +1,4 @@
-import Counter from "./Counter";
+import Counter from "./components/Counter";
 import "./styles.css";
 
 export default function App() {
